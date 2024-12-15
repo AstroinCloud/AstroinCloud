@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroinCloud
+- 👋 Hi, I’m @Astro in the Cloud
 - 👀 I’m interested in ... Coding, creating fun projects and EDM music
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
